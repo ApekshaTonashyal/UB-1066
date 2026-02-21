@@ -1,5 +1,5 @@
 # UB-1066
-AgriSmart – AI-Powered Smart Farming Platform
+# AgriSmart – AI-Powered Smart Farming Platform
 
 AgriSmart is a comprehensive web application designed to help small-scale farmers make smarter decisions using AI-driven insights. The platform enables early crop disease detection, delivers real-time weather updates, supports efficient irrigation management, and tracks market prices — all within an intuitive, easy-to-use interface. By combining technology and agriculture, AgriSmart empowers farmers to maximize yield, reduce losses, and increase profitability.
 
